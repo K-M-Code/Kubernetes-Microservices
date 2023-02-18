@@ -1,0 +1,43 @@
+version: '3'
+# name: kubernetes-ecommerce-microservices
+
+services:
+  km-productServiceMongo:
+    container_name: km-productServiceMongo
+    image: mongo:latest
+    restart: always
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: productServiceMongoPassword
+    ports:
+      - 10000:27017
+    volumes:
+      - type: bind
+        source: ${productServiceMongoLoc}
+        target: /data/db
+    networks:
+      - km-network
+
+      
+  km-orderServiceMongo:
+    container_name: km-orderServiceMongo
+    image: mongo:latest
+    restart: always
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: orderServiceMongoPassword
+    ports:
+      - 10001:27017
+    volumes:
+      - type: bind
+        source: ${orderServiceMongoLoc}
+        target: /data/db
+    networks:
+      - km-network
+
+
+
+
+
+networks:
+  km-network:
