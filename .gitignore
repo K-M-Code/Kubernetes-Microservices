@@ -1,9 +1,9 @@
 databases/orderServiceMongo/journal/WiredTigerLog.0000000005
 databases/customerServiceMongo/journal/WiredTigerLog.0000000002
 databases/shippingServiceMongo/journal/WiredTigerLog.0000000002
-Sample/productServiceRust/target/debug/deps/librocket-eb8af1ec170dea6d.rlib
+- Sample/productServiceRust/target/debug/deps/librocket-eb8af1ec170dea6d.rlib
 databases/productServiceMongo/journal/WiredTigerLog.0000000018
-Sample/productServiceRustMongo/target/debug/product_service_rust_mongo.pdb
-Sample/productServiceRustMongo/target/debug/deps/productServiceRustMongo.pdb
-Sample/productServiceRust/target/debug/deps/libmongodb-4a373945ef438a09.rlib
-Sample/productServiceRustMongo/target/debug/deps/libmongodb-abb15eb0bfb017af.rlib
+- Sample/productServiceRustMongo/target/debug/product_service_rust_mongo.pdb
+- Sample/productServiceRustMongo/target/debug/deps/productServiceRustMongo.pdb
+- Sample/productServiceRust/target/debug/deps/libmongodb-4a373945ef438a09.rlib
+- Sample/productServiceRustMongo/target/debug/deps/libmongodb-abb15eb0bfb017af.rlib
