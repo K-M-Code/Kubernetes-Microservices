@@ -1,0 +1,10 @@
+F:\My Experiment\Web Services\Kubernetes Ecommerce Microservice\productServiceRustMongo\target\debug\deps\async_std_resolver-6a5540cda89c46a5.rmeta: C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-std-resolver-0.21.2\src/lib.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-std-resolver-0.21.2\src\net.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-std-resolver-0.21.2\src\runtime.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-std-resolver-0.21.2\src\time.rs
+
+F:\My Experiment\Web Services\Kubernetes Ecommerce Microservice\productServiceRustMongo\target\debug\deps\libasync_std_resolver-6a5540cda89c46a5.rlib: C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-std-resolver-0.21.2\src/lib.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-std-resolver-0.21.2\src\net.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-std-resolver-0.21.2\src\runtime.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-std-resolver-0.21.2\src\time.rs
+
+F:\My Experiment\Web Services\Kubernetes Ecommerce Microservice\productServiceRustMongo\target\debug\deps\async_std_resolver-6a5540cda89c46a5.d: C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-std-resolver-0.21.2\src/lib.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-std-resolver-0.21.2\src\net.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-std-resolver-0.21.2\src\runtime.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-std-resolver-0.21.2\src\time.rs
+
+C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-std-resolver-0.21.2\src/lib.rs:
+C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-std-resolver-0.21.2\src\net.rs:
+C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-std-resolver-0.21.2\src\runtime.rs:
+C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-std-resolver-0.21.2\src\time.rs:

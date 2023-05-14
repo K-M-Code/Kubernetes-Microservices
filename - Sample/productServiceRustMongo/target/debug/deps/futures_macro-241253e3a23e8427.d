@@ -1,0 +1,9 @@
+F:\My Experiment\Web Services\Kubernetes Ecommerce Microservice\productServiceRustMongo\target\debug\deps\futures_macro-241253e3a23e8427.dll: C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.28\src\lib.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.28\src\executor.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.28\src\join.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.28\src\select.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.28\src\stream_select.rs
+
+F:\My Experiment\Web Services\Kubernetes Ecommerce Microservice\productServiceRustMongo\target\debug\deps\futures_macro-241253e3a23e8427.d: C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.28\src\lib.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.28\src\executor.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.28\src\join.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.28\src\select.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.28\src\stream_select.rs
+
+C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.28\src\lib.rs:
+C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.28\src\executor.rs:
+C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.28\src\join.rs:
+C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.28\src\select.rs:
+C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.28\src\stream_select.rs:

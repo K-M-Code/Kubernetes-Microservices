@@ -1,0 +1,10 @@
+F:\My Experiment\Web Services\Kubernetes Ecommerce Microservice\productServiceRust\target\debug\deps\proc_macro2-b429a9d278ca75cd.rmeta: C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-0.4.30\src\lib.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-0.4.30\src\strnom.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-0.4.30\src\fallback.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-0.4.30\src\wrapper.rs
+
+F:\My Experiment\Web Services\Kubernetes Ecommerce Microservice\productServiceRust\target\debug\deps\libproc_macro2-b429a9d278ca75cd.rlib: C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-0.4.30\src\lib.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-0.4.30\src\strnom.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-0.4.30\src\fallback.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-0.4.30\src\wrapper.rs
+
+F:\My Experiment\Web Services\Kubernetes Ecommerce Microservice\productServiceRust\target\debug\deps\proc_macro2-b429a9d278ca75cd.d: C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-0.4.30\src\lib.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-0.4.30\src\strnom.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-0.4.30\src\fallback.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-0.4.30\src\wrapper.rs
+
+C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-0.4.30\src\lib.rs:
+C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-0.4.30\src\strnom.rs:
+C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-0.4.30\src\fallback.rs:
+C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-0.4.30\src\wrapper.rs:

@@ -1,0 +1,11 @@
+F:\My Experiment\Web Services\Kubernetes Ecommerce Microservice\productServiceRust\target\debug\deps\getrandom-6a9bbc08f5e62ffc.rmeta: C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\lib.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\error.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\util.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\error_impls.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\windows.rs
+
+F:\My Experiment\Web Services\Kubernetes Ecommerce Microservice\productServiceRust\target\debug\deps\libgetrandom-6a9bbc08f5e62ffc.rlib: C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\lib.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\error.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\util.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\error_impls.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\windows.rs
+
+F:\My Experiment\Web Services\Kubernetes Ecommerce Microservice\productServiceRust\target\debug\deps\getrandom-6a9bbc08f5e62ffc.d: C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\lib.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\error.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\util.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\error_impls.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\windows.rs
+
+C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\lib.rs:
+C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\error.rs:
+C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\util.rs:
+C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\error_impls.rs:
+C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\windows.rs:

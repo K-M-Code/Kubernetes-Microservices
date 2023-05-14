@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "63f1bfe1b68d68d340569ea2"
+  },
+  "ProductID": 1,
+  "SKU": "ABC123",
+  "ProductName": "Example Product",
+  "ProductDescription": "This is an example product.",
+  "SupplierID": 1,
+  "CategoryID": 1,
+  "QuantityPerUnit": 10,
+  "UnitSize": "each",
+  "UnitPrice": 9.99,
+  "MSRP": 12.99,
+  "UnitWeight": 0.5,
+  "UnitsInStock": 100,
+  "Picture": "example.jpg"
+}]

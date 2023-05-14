@@ -1,0 +1,11 @@
+F:\My Experiment\Web Services\Kubernetes Ecommerce Microservice\productServiceRust\target\debug\deps\time-a2f67bd8f7437103.rmeta: C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\time-0.1.45\src\lib.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\time-0.1.45\src\display.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\time-0.1.45\src\duration.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\time-0.1.45\src\parse.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\time-0.1.45\src\sys.rs
+
+F:\My Experiment\Web Services\Kubernetes Ecommerce Microservice\productServiceRust\target\debug\deps\libtime-a2f67bd8f7437103.rlib: C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\time-0.1.45\src\lib.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\time-0.1.45\src\display.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\time-0.1.45\src\duration.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\time-0.1.45\src\parse.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\time-0.1.45\src\sys.rs
+
+F:\My Experiment\Web Services\Kubernetes Ecommerce Microservice\productServiceRust\target\debug\deps\time-a2f67bd8f7437103.d: C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\time-0.1.45\src\lib.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\time-0.1.45\src\display.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\time-0.1.45\src\duration.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\time-0.1.45\src\parse.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\time-0.1.45\src\sys.rs
+
+C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\time-0.1.45\src\lib.rs:
+C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\time-0.1.45\src\display.rs:
+C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\time-0.1.45\src\duration.rs:
+C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\time-0.1.45\src\parse.rs:
+C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\time-0.1.45\src\sys.rs:

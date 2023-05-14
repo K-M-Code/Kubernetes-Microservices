@@ -19,24 +19,53 @@ services:
       - km-network
 
       
-  # km-orderServiceMongo:
-  #   container_name: km-orderServiceMongo
-  #   image: mongo:latest
-  #   restart: always
-  #   environment:
-  #     MONGO_INITDB_ROOT_USERNAME: admin
-  #     MONGO_INITDB_ROOT_PASSWORD: orderServiceMongoPassword
-  #   ports:
-  #     - 10001:27017
-  #   volumes:
-  #     - type: bind
-  #       source: ${orderServiceMongoLocation}
-  #       target: /data/db
-  #   networks:
-  #     - km-network
+  km-orderServiceMongo:
+    container_name: km-orderServiceMongo
+    image: mongo:latest
+    restart: always
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: orderServiceMongoPassword
+    ports:
+      - 10001:27017
+    volumes:
+      - type: bind
+        source: ${orderServiceMongoLocation}
+        target: /data/db
+    networks:
+      - km-network
 
+  km-customerServiceMongo:
+    container_name: km-customerServiceMongo
+    image: mongo:latest
+    restart: always
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: customerServiceMongoPassword
+    ports:
+      - 10002:27017
+    volumes:
+      - type: bind
+        source: ${customerServiceMongoLocation}
+        target: /data/db
+    networks:
+      - km-network
 
-
+  km-shippingServiceMongo:
+    container_name: km-shippingServiceMongo
+    image: mongo:latest
+    restart: always
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: shippingServiceMongoPassword
+    ports:
+      - 10003:27017
+    volumes:
+      - type: bind
+        source: ${shippingServiceMongoLocation}
+        target: /data/db
+    networks:
+      - km-network
 
 
 networks:

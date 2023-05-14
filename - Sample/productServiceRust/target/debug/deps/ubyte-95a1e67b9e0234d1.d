@@ -1,0 +1,11 @@
+F:\My Experiment\Web Services\Kubernetes Ecommerce Microservice\productServiceRust\target\debug\deps\ubyte-95a1e67b9e0234d1.rmeta: C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.3\src\lib.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.3\src\arithmetic.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.3\src\byte_unit.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.3\src\parse.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.3\src\ser_de.rs
+
+F:\My Experiment\Web Services\Kubernetes Ecommerce Microservice\productServiceRust\target\debug\deps\libubyte-95a1e67b9e0234d1.rlib: C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.3\src\lib.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.3\src\arithmetic.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.3\src\byte_unit.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.3\src\parse.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.3\src\ser_de.rs
+
+F:\My Experiment\Web Services\Kubernetes Ecommerce Microservice\productServiceRust\target\debug\deps\ubyte-95a1e67b9e0234d1.d: C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.3\src\lib.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.3\src\arithmetic.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.3\src\byte_unit.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.3\src\parse.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.3\src\ser_de.rs
+
+C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.3\src\lib.rs:
+C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.3\src\arithmetic.rs:
+C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.3\src\byte_unit.rs:
+C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.3\src\parse.rs:
+C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.3\src\ser_de.rs:

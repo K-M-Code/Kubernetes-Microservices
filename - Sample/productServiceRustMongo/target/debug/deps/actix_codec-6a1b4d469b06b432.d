@@ -1,0 +1,10 @@
+F:\My Experiment\Web Services\Kubernetes Ecommerce Microservice\productServiceRustMongo\target\debug\deps\actix_codec-6a1b4d469b06b432.rmeta: C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.0\src/lib.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.0\src\bcodec.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.0\src\framed.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.0\src\lines.rs
+
+F:\My Experiment\Web Services\Kubernetes Ecommerce Microservice\productServiceRustMongo\target\debug\deps\libactix_codec-6a1b4d469b06b432.rlib: C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.0\src/lib.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.0\src\bcodec.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.0\src\framed.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.0\src\lines.rs
+
+F:\My Experiment\Web Services\Kubernetes Ecommerce Microservice\productServiceRustMongo\target\debug\deps\actix_codec-6a1b4d469b06b432.d: C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.0\src/lib.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.0\src\bcodec.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.0\src\framed.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.0\src\lines.rs
+
+C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.0\src/lib.rs:
+C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.0\src\bcodec.rs:
+C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.0\src\framed.rs:
+C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.0\src\lines.rs:

@@ -1,0 +1,11 @@
+F:\My Experiment\Web Services\Kubernetes Ecommerce Microservice\productServiceRust\target\debug\deps\ipnet-a8ff915ff8e221a8.rmeta: C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.7.2\src\lib.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.7.2\src\ipext.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.7.2\src\ipnet.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.7.2\src\parser.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.7.2\src\mask.rs
+
+F:\My Experiment\Web Services\Kubernetes Ecommerce Microservice\productServiceRust\target\debug\deps\libipnet-a8ff915ff8e221a8.rlib: C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.7.2\src\lib.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.7.2\src\ipext.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.7.2\src\ipnet.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.7.2\src\parser.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.7.2\src\mask.rs
+
+F:\My Experiment\Web Services\Kubernetes Ecommerce Microservice\productServiceRust\target\debug\deps\ipnet-a8ff915ff8e221a8.d: C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.7.2\src\lib.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.7.2\src\ipext.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.7.2\src\ipnet.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.7.2\src\parser.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.7.2\src\mask.rs
+
+C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.7.2\src\lib.rs:
+C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.7.2\src\ipext.rs:
+C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.7.2\src\ipnet.rs:
+C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.7.2\src\parser.rs:
+C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.7.2\src\mask.rs:

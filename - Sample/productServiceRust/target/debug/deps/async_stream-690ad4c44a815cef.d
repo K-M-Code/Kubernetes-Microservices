@@ -1,0 +1,10 @@
+F:\My Experiment\Web Services\Kubernetes Ecommerce Microservice\productServiceRust\target\debug\deps\async_stream-690ad4c44a815cef.rmeta: C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\lib.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\async_stream.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\next.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\yielder.rs
+
+F:\My Experiment\Web Services\Kubernetes Ecommerce Microservice\productServiceRust\target\debug\deps\libasync_stream-690ad4c44a815cef.rlib: C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\lib.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\async_stream.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\next.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\yielder.rs
+
+F:\My Experiment\Web Services\Kubernetes Ecommerce Microservice\productServiceRust\target\debug\deps\async_stream-690ad4c44a815cef.d: C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\lib.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\async_stream.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\next.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\yielder.rs
+
+C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\lib.rs:
+C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\async_stream.rs:
+C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\next.rs:
+C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\yielder.rs:

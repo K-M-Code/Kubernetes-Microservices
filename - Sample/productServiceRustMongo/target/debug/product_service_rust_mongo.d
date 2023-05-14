@@ -1,0 +1,1 @@
+F:\My\ Experiment\Web\ Services\Kubernetes\ Ecommerce\ Microservice\productServiceRustMongo\target\debug\product_service_rust_mongo.exe: F:\My\ Experiment\Web\ Services\Kubernetes\ Ecommerce\ Microservice\productServiceRustMongo\src\main.rs

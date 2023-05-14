@@ -1,0 +1,10 @@
+F:\My Experiment\Web Services\Kubernetes Ecommerce Microservice\productServiceRustMongo\target\debug\deps\resolv_conf-a135cffef2e25edf.rmeta: C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resolv-conf-0.7.0\src/lib.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resolv-conf-0.7.0\src\grammar.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resolv-conf-0.7.0\src\ip.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resolv-conf-0.7.0\src\config.rs
+
+F:\My Experiment\Web Services\Kubernetes Ecommerce Microservice\productServiceRustMongo\target\debug\deps\libresolv_conf-a135cffef2e25edf.rlib: C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resolv-conf-0.7.0\src/lib.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resolv-conf-0.7.0\src\grammar.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resolv-conf-0.7.0\src\ip.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resolv-conf-0.7.0\src\config.rs
+
+F:\My Experiment\Web Services\Kubernetes Ecommerce Microservice\productServiceRustMongo\target\debug\deps\resolv_conf-a135cffef2e25edf.d: C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resolv-conf-0.7.0\src/lib.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resolv-conf-0.7.0\src\grammar.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resolv-conf-0.7.0\src\ip.rs C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resolv-conf-0.7.0\src\config.rs
+
+C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resolv-conf-0.7.0\src/lib.rs:
+C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resolv-conf-0.7.0\src\grammar.rs:
+C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resolv-conf-0.7.0\src\ip.rs:
+C:\Users\kunal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resolv-conf-0.7.0\src\config.rs:
